@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
-  #描述     
+  #描述
   s.description      = '热更新弹窗,更新和取消按钮，更新带进度条渐变色,更新完成后显示好的按钮'
 
   #主页,这里要填写可以访问到的地址，不然验证不通过
